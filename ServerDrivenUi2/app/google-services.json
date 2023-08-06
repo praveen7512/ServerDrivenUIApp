@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536317444757",
+    "project_id": "serverdrivenui-e4eae",
+    "storage_bucket": "serverdrivenui-e4eae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536317444757:android:49a4eae4e39e5d0169119c",
+        "android_client_info": {
+          "package_name": "com.example.serverdrivenui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536317444757-0la2eldh2mu0hnu39j0gi1c7sqn7abau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFLEmA_srTyhU3ZVtMaVltqpiruVv60-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536317444757-0la2eldh2mu0hnu39j0gi1c7sqn7abau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
